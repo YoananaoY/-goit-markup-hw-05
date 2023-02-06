@@ -298,44 +298,21 @@ nav {
   justify-content: center;
 }
 
-.Team-Card-1 {
-  border: 1px;
-  border-style: solid;
-  border-color: rgba(47, 48, 58, 0.2);
-}
 .Team-Card-1:hover {
-  border-color: #2196f3;
-  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.Team-Card-2 {
-  border: 1px;
-  border-style: solid;
-  border-color: rgba(47, 48, 58, 0.2);
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.14);
+  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .Team-Card-2:hover {
-  border-color: #2196f3;
-  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.Team-Card-3 {
-  border: 1px;
-  border-style: solid;
-  border-color: rgba(47, 48, 58, 0.2);
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.14);
+  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .Team-Card-3:hover {
-  border-color: #2196f3;
-  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.Team-Card-4 {
-  border: 1px;
-  border-style: solid;
-  border-color: rgba(47, 48, 58, 0.2);
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.14);
+  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .Team-Card-4:hover {
-  border-color: #2196f3;
-  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.14);
+  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .team-list {
